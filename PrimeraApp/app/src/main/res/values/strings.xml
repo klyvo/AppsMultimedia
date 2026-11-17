@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primera-app</string>
+    <string name="game_title">TROPICAL SHUFFLE</string>
+    <string name="subtitle">Which coconut has the pearl?</string>
+    <string name="play_again">Play Again</string>
+    <string name="change_difficulty">Change Difficulty</string>
+    <string name="you_win">You win</string>
+    <string name="has_lost">You lost</string>
+    <string name="wins_label">Wins: </string>
+    <string name="loses_label">Losses: </string>
+    <string name="wins_format">Wins: %d</string>
+    <string name="loses_format">Losses: %d</string>
+    <string name="cubilete_description">Coconut</string>
+    <string name="cubs_3">3 Coconuts</string>
+    <string name="cubs_6">6 Coconuts</string>
+</resources>
