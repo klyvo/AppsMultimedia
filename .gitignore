@@ -1,5 +1,7 @@
 */.gradle/
-*/app/build/
+*/.kotlin/
 */.idea/
-*/gradle/
 */build/
+*/app/build/
+*/local.properties
+/.vscode/
